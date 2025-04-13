@@ -710,7 +710,7 @@ transition: all .40s ease;
          color: white;
      }
      #paragraph p{
-         
+        line-height: 3.5vw;
          margin-top: 5vw;
      }
      #page3 svg{
@@ -998,7 +998,7 @@ transition: all .40s ease;
     #page3{
         
         width: 100%;
-        height: 100%;
+        height: 70%;
     }
      #text1{
         width: 100%;
@@ -1028,6 +1028,7 @@ transition: all .40s ease;
      }
      #paragraph p{
          margin-top: 5vw;
+         line-height: 5vw;
      }
      #page3 svg{
         display: none;
